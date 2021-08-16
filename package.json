@@ -1,5 +1,5 @@
 {
-  "name": "@telenko/node-mf",
+  "name": "@realself/node-mf",
   "version": "0.0.5",
   "description": "Module Federation plugin support for NodeJS",
   "main": "src/index.js",
